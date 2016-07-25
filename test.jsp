@@ -8,6 +8,5 @@
 </head>
 <body>
 	this is test page 
-	this is test page 6666666
 </body>
 </html>
