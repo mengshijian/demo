@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	this is test page
-    你是谁啊123456
-    你是谁啊654321
-    你是谁啊654321
+	this is test page 6666666
 </body>
 </html>
