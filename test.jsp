@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	this is test page 666699999
+	this is test page 
 </body>
 </html>
