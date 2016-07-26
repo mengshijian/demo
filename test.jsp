@@ -10,7 +10,11 @@
 
 	this is test page 最后一次修改，好不好
 	不要再改了00000
+<<<<<<< HEAD
 	不要再改了22211
+=======
+	不要再
+>>>>>>> branch 'master' of https://github.com/mengshijian/demo.git
 	556
 </body>
 </html>
